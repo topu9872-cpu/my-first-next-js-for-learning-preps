@@ -7,6 +7,8 @@ const links=
 <li><Link href='/home'>Home</Link></li>
 <li><Link href='/blogs'>Blogs</Link></li>
 <li><Link href='/contact'>Contact Us</Link></li>
+<li><Link href='/dashbord'>Dashbord</Link></li>
+<li><Link href='/users'>Users</Link></li>
 </>
 
     return (
